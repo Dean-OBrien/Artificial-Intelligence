@@ -1,5 +1,5 @@
 # Artificial-Intelligence
-AI Reasearch
+AI Research
 
 
 
